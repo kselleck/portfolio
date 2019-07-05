@@ -1,6 +1,6 @@
-# Project Title
+# Portfolio Project
 
-One Paragraph of project description goes here
+Initial git Repo to begin the development process
 
 ## Getting Started
 
